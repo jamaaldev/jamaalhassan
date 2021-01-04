@@ -10,7 +10,6 @@ Skills:  JS / HTML / CSS/ Video Editor/ Blender 3D/ Cinema 4D
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jamaalhassan)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamaalhassan)](https://github.com/anuraghazra/github-readme-stats)
 
