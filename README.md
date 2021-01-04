@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Jamaal 
 #### I am Web Developer And Filmmaker Also Have Experience With Blender 3D
 
-Skills:  JS / HTML / CSS/ Video Editor
+Skills:  JS / HTML / CSS/ Video Editor/ Blender 3D
 
 - 🌱 I’m currently learning Javascript, HTML, CSS 
 
