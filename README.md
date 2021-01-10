@@ -25,7 +25,6 @@ I am a Web Developer And Filmmaker who Also Have Experience With Blender 3D/Cine
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
 </div>
 
-<br/>  
 </td><td valign="top" width="33%">
 
 ### Backend  
@@ -35,7 +34,6 @@ I am a Web Developer And Filmmaker who Also Have Experience With Blender 3D/Cine
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />  
 </div>
 
-<br/> 
 </td><td valign="top" width="33%">
 
 ### post-production
@@ -49,8 +47,6 @@ I am a Web Developer And Filmmaker who Also Have Experience With Blender 3D/Cine
 </div>
 
 </td></tr></table>  
-
-<br/>  
 
 ## Connect with me  
 <div align="center">
@@ -70,6 +66,5 @@ I am a Web Developer And Filmmaker who Also Have Experience With Blender 3D/Cine
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jamaalhassan&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
 
 
