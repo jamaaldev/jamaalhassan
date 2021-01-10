@@ -1,11 +1,9 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
 ### <div align="center">Hi there 👋, my name is Jamaal
 I am a Web Developer And Filmmaker who Also Have Experience With Blender 3D/Cinema 4d</div>  
   
-
 - 🌱 I’m currently learning JavaScript, HTML, CSS  
   
 <br/>  
@@ -37,8 +35,9 @@ I am a Web Developer And Filmmaker who Also Have Experience With Blender 3D/Cine
 </div>
 
 </td><td valign="top" width="32%">
-<br/>  
-
+<br/> 
+  
+### post-production
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" />  
