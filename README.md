@@ -95,4 +95,3 @@ I am a Web Developer And Filmmaker who Also Have Experience With Blender 3D/Cine
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
