@@ -1,9 +1,11 @@
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
+</div> 
+
 ### <div align="center">Hi there 👋, my name is Jamaal
 I am a Web Developer And Filmmaker who Also Have Experience With Blender 3D/Cinema 4d</div>  
-  
+<br/>  
+
 - 🌱 I’m currently learning JavaScript, HTML, CSS  
   
 <br/>  
