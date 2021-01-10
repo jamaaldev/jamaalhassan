@@ -8,6 +8,7 @@ I am a Web Developer And Filmmaker who Also Have Experience With Blender 3D/Cine
 
 - 🌱 I’m currently learning JavaScript, HTML, CSS  
   
+<br/>  
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jamaalhassan)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/profile.php?id=100008803869133)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jamaaldev/)  
   
@@ -26,6 +27,7 @@ I am a Web Developer And Filmmaker who Also Have Experience With Blender 3D/Cine
 </div>
 
 </td><td valign="top" width="33%">
+<br/>  
 
 ### Backend  
 <div align="center">  
@@ -35,6 +37,7 @@ I am a Web Developer And Filmmaker who Also Have Experience With Blender 3D/Cine
 </div>
 
 </td><td valign="top" width="33%">
+<br/>  
 
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />  
@@ -69,9 +72,4 @@ I am a Web Developer And Filmmaker who Also Have Experience With Blender 3D/Cine
 
 <br/>  
 
-## Recent Blog Posts  
-  
-<br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
