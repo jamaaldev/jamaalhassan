@@ -18,6 +18,7 @@ I am a Web Developer And Filmmaker who Also Have Experience With Blender 3D/Cine
 
 ## My Skill Set  
 <br/>  
+<div align="center">
 
 <table><tr><td valign="top" width="33%">
 
@@ -41,6 +42,7 @@ I am a Web Developer And Filmmaker who Also Have Experience With Blender 3D/Cine
 
 </td><td valign="top" width="33%">
 
+### Post-Production
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/blender_community_badge_white.svg" alt="Blender" height="50" />  
@@ -51,7 +53,7 @@ I am a Web Developer And Filmmaker who Also Have Experience With Blender 3D/Cine
 </div>
 
 </td></tr></table>  
-
+</div>  
 <br/>  
 
 
