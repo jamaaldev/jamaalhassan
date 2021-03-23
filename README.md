@@ -81,7 +81,8 @@ I am a Web Developer And Filmmaker who Also Have Experience With Blender 3D/Cine
 
 ## Recent Blog Posts  
 <br/>  
-   #i am going to change this gif and uploud clear one Soon
+   ## This Netflex_clone is For Practicing,
+   I used: API For Movies,Login and Rigester MongoDB Driver Mongoose, With Node Express BackEnd
 
 <br/>
 <a href="https://github.com/jamaalhassan" rel="nofollow">
@@ -89,9 +90,14 @@ I am a Web Developer And Filmmaker who Also Have Experience With Blender 3D/Cine
 </a>
 <br/>  
                                                                                                                                    
-  
+  </td><td valign="top" width="33%">
 
 
+<br/>
+<a href="https://github.com/jamaalhassan" rel="nofollow">
+<img src="https://github.com/jamaalhassan/Clone_NetFlex/blob/abb8a41551d0a90eea14c9b541ef9e7d27974cf9/image/ezgif.com-gif-maker.gif" width="320" alt="Portfolio">
+</a>
+<br/> 
 
   
 
