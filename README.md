@@ -83,10 +83,10 @@ I am a Web Developer And Filmmaker who Also Have Experience With Blender 3D/Cine
 
  
 
-#i am going to change this gif and uploud clear one Soon
 <a href="https://github.com/jamaalhassan" rel="nofollow">
-            <img src="https://github.com/jamaalhassan/Clone_NetFlex/blob/d5a1a99b5ef93cbf7eb4b0e574ea499383c58e77/image/Project%20Name.gif" width="520" alt="Portfolio">
-        </a>
+  #i am going to change this gif and uploud clear one Soon
+<img src="https://github.com/jamaalhassan/Clone_NetFlex/blob/d5a1a99b5ef93cbf7eb4b0e574ea499383c58e77/image/Project%20Name.gif" width="520" alt="Portfolio">
+</a>
 <br/>  
                                                                                                                                    
   
