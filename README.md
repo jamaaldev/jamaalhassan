@@ -82,12 +82,12 @@ I am a Web Developer And Filmmaker who Also Have Experience With Blender 3D/Cine
 ## Recent Blog Posts  
 
 <div align="center">
-<img src="https://github.com/jamaalhassan/Clone_NetFlex/blob/master/image/ProjectName.gif" align="center" style="width: 100%" />
+<img src=" align="center" style="width: 100%" />
 </div>  
 
 
 <a href="https://www.ibrahimgurhan.com" rel="nofollow">
-            <img src="https://media3.giphy.com/media/aUKBycWIVSGyTam4JT/giphy.gif" width="100%" alt="Portfolio" data-canonical-src="https://media3.giphy.com/media/aUKBycWIVSGyTam4JT/giphy.gif" style="max-width:100%;">
+            <img src="https://github.com/jamaalhassan/Clone_NetFlex/blob/master/image/ProjectName.gif"" width="100%" alt="Portfolio" data-canonical-src="https://media3.giphy.com/media/aUKBycWIVSGyTam4JT/giphy.gif" style="max-width:100%;">
         </a>
 <br/>  
 
