@@ -87,7 +87,7 @@ I am a Web Developer And Filmmaker who Also Have Experience With Blender 3D/Cine
 
 
 <a href="https://www.ibrahimgurhan.com" rel="nofollow">
-            <img src="https://github.com/jamaalhassan/Clone_NetFlex/blob/master/image/ProjectName.gif"" width="100%" alt="Portfolio"  style="max-width:100%;">
+            <img src="https://github.com/jamaalhassan/Clone_NetFlex/blob/master/image/ProjectName.gif"" width="520" alt="Portfolio">
         </a>
 <br/>  
 
