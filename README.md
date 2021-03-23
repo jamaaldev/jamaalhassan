@@ -80,7 +80,7 @@ I am a Web Developer And Filmmaker who Also Have Experience With Blender 3D/Cine
 
 
 ## Recent Blog Posts  
-![Alt Text](https://github.com/jamaalhassan/Clone_NetFlex/blob/master/image/ProjectName.gif)
+![Alt Text](<img src="https://github.com/jamaalhassan/Clone_NetFlex/blob/master/image/ProjectName.gif")
 
 
 https://github.com/jamaalhassan/Clone_NetFlex/blob/master/image/ProjectName.gif?raw=trues=200
