@@ -87,7 +87,7 @@ I am a Web Developer And Filmmaker who Also Have Experience With Blender 3D/Cine
 <table><tr><td valign="top" width="33%">
 
  ## This Netflex_clone is For Practicing,
-   I used: API For Movies,Login and Rigester MongoDB Driver Mongoose, With Node Express BackEnd
+   1I used: API For Movies,Login and Rigester MongoDB Driver Mongoose, With Node Express BackEnd
 
 <br/>
 <a href="https://github.com/jamaalhassan" rel="nofollow">
@@ -100,7 +100,7 @@ I am a Web Developer And Filmmaker who Also Have Experience With Blender 3D/Cine
 
 
  ## This Netflex_clone is For Practicing,
-   I used: API For Movies,Login and Rigester MongoDB Driver Mongoose, With Node Express BackEnd
+   2I used: API For Movies,Login and Rigester MongoDB Driver Mongoose, With Node Express BackEnd
 
 <br/>
 <a href="https://github.com/jamaalhassan" rel="nofollow">
@@ -110,6 +110,17 @@ I am a Web Developer And Filmmaker who Also Have Experience With Blender 3D/Cine
 
 </td><td valign="top" width="33%">
 
+
+ ## This Netflex_clone is For Practicing,
+   3I used: API For Movies,Login and Rigester MongoDB Driver Mongoose, With Node Express BackEnd
+
+<br/>
+<a href="https://github.com/jamaalhassan" rel="nofollow">
+<img src="https://github.com/jamaalhassan/Clone_NetFlex/blob/abb8a41551d0a90eea14c9b541ef9e7d27974cf9/image/ezgif.com-gif-maker.gif" width="320" alt="Portfolio">
+</a>
+<br/>  
+
+</td><td valign="top" width="33%">
 
 
 <br/>  
