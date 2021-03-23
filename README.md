@@ -120,7 +120,6 @@ I am a Web Developer And Filmmaker who Also Have Experience With Blender 3D/Cine
 </a>
 <br/>  
 
-</td><td valign="top" width="33%">
 
 
 <br/>  
