@@ -87,7 +87,7 @@ I am a Web Developer And Filmmaker who Also Have Experience With Blender 3D/Cine
 <table><tr><td valign="top" width="33%">
 
  ## This Netflex_clone is For Practicing,
-   1 ,I used: HTML CSS Javascript Vannila and API For Movies List,Login jwt for security and Register MongoDB Driver Mongoose, With Node Express BackEnd.
+   1 ,I used: HTML CSS Javascript Vannila and API For Movies List,Login jwt for security and Register MongoDB Driver Mongoose, With Node Express BackEnd.this project was my first backend nodejs i was following tutorail and also i added more functionality and i made my own way for some part of the design.
 
 <br/>
 <a href="https://github.com/jamaalhassan" rel="nofollow">
