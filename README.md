@@ -99,12 +99,12 @@ I am a Web Developer And Filmmaker who Also Have Experience With Blender 3D/Cine
 
 
 
- ## This Netflex_clone is For Practicing,
-   2I used: API For Movies,Login and Rigester MongoDB Driver Mongoose, With Node Express BackEnd
+ ## This AmazonPrime_clone is For Practicing,
+   2, I used: HTML CSS Javascript Vannila Only for Now.
 
 <br/>
 <a href="https://github.com/jamaalhassan" rel="nofollow">
-<img src="https://github.com/jamaalhassan/Clone_NetFlex/blob/abb8a41551d0a90eea14c9b541ef9e7d27974cf9/image/ezgif.com-gif-maker.gif" width="320" alt="Portfolio">
+<img src="https://github.com/jamaalhassan/imageGifts/primeclone.gif" width="320" alt="Portfolio">
 </a>
 <br/>  
 
