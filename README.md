@@ -100,7 +100,7 @@ I am a Web Developer And Filmmaker who Also Have Experience With Blender 3D/Cine
 
 
  ## This AmazonPrime_clone is For Practicing,
-   2, I used: HTML CSS Javascript Vannila Only for Now.
+   2, I used: HTML CSS Javascript Vannila and swiperJS package for the Slider
 
 <br/>
 <a href="https://github.com/jamaalhassan" rel="nofollow">
